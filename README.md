@@ -1,2 +1,2 @@
 # git-learn
-first steps in git
+baby steps in git
